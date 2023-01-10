@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-01-10: test(api): correct response status codes
 - 2025-05-31: test(api): correct response status codes
 - 2025-05-30: refactor(db): update cache TTL
 - 2025-05-26: fix(config): add validation middleware
