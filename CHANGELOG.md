@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-01-16: style(utils): add rate limiting
 - 2023-01-10: test(api): correct response status codes
 - 2025-05-31: test(api): correct response status codes
 - 2025-05-30: refactor(db): update cache TTL
