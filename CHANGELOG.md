@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-01-26: Adjust API response format
 - 2023-01-26: Fix race condition
 - 2023-01-24: refactor(db): add session handling
 - 2023-01-16: style(utils): add rate limiting
