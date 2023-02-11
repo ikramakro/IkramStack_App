@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-02-11: perf(auth): update package lock
 - 2023-02-04: feat(db): correct response status codes
 - 2023-01-26: Adjust API response format
 - 2023-01-26: Fix race condition
