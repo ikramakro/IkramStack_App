@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-02-20: perf(config): fix pagination offset
 - 2023-02-18: docs(api): improve error messages
 - 2023-02-11: perf(auth): update package lock
 - 2023-02-04: feat(db): correct response status codes
