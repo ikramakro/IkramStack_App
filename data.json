@@ -1,13 +1,7 @@
 {
-  "version": "1.0.506",
-  "lastUpdated": "2023-02-23T12:58:33",
+  "version": "1.0.507",
+  "lastUpdated": "2023-02-25T13:17:15",
   "events": [
-    {
-      "id": "evt_1780643966906_9904",
-      "timestamp": "2025-10-01T13:12:46.000Z",
-      "action": "deploy",
-      "status": "ok"
-    },
     {
       "id": "evt_1780643967264_8358",
       "timestamp": "2025-10-01T11:08:05.000Z",
@@ -1200,6 +1194,12 @@
       "id": "evt_1780644261276_5079",
       "timestamp": "2023-02-23T07:58:33.000Z",
       "action": "patch",
+      "status": "ok"
+    },
+    {
+      "id": "evt_1780644261640_5459",
+      "timestamp": "2023-02-25T08:17:15.000Z",
+      "action": "update",
       "status": "ok"
     }
   ]
