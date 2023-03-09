@@ -1,6 +1,8 @@
 # Changelog
 
 ## Unreleased
+- 2023-03-09: chore(api): fix CORS headers
+- 2023-03-08: Update logging output
 - 2023-02-20: perf(config): fix pagination offset
 - 2023-02-18: docs(api): improve error messages
 - 2023-02-11: perf(auth): update package lock
