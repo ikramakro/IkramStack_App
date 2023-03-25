@@ -1,6 +1,8 @@
 # Changelog
 
 ## Unreleased
+- 2023-03-25: style(routes): improve error messages
+- 2023-03-25: fix(utils): sync schema changes
 - 2023-03-12: refactor(routes): fix CORS headers
 - 2023-03-09: chore(api): fix CORS headers
 - 2023-03-08: Update logging output
