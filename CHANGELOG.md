@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-04-03: test(utils): add validation middleware
 - 2023-03-26: fix(auth): fix pagination offset
 - 2023-03-25: style(routes): improve error messages
 - 2023-03-25: fix(utils): sync schema changes
