@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-04-12: Fix typo in config
 - 2023-04-07: fix(db): update cache TTL
 - 2023-04-04: style(routes): handle empty payload
 - 2023-04-03: test(utils): add validation middleware
