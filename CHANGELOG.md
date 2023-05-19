@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-05-19: Patch security issue
 - 2023-05-17: fix(routes): update cache TTL
 - 2023-05-16: fix(core): fix memory leak in worker
 - 2023-04-23: Fix date parsing bug
