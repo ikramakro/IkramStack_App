@@ -1,19 +1,7 @@
 {
-  "version": "1.0.600",
-  "lastUpdated": "2023-05-20T14:55:07",
+  "version": "1.0.602",
+  "lastUpdated": "2023-05-21T10:13:33",
   "events": [
-    {
-      "id": "evt_1780644001917_6810",
-      "timestamp": "2025-07-10T10:05:01.000Z",
-      "action": "sync",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780644002287_9626",
-      "timestamp": "2025-06-29T07:12:45.000Z",
-      "action": "sync",
-      "status": "ok"
-    },
     {
       "id": "evt_1780644002652_9412",
       "timestamp": "2025-06-30T05:26:47.000Z",
@@ -1199,6 +1187,18 @@
     {
       "id": "evt_1780644295776_1389",
       "timestamp": "2023-05-20T09:55:07.000Z",
+      "action": "update",
+      "status": "ok"
+    },
+    {
+      "id": "evt_1780644296150_2761",
+      "timestamp": "2023-05-20T05:08:12.000Z",
+      "action": "sync",
+      "status": "ok"
+    },
+    {
+      "id": "evt_1780644296516_2172",
+      "timestamp": "2023-05-21T05:13:33.000Z",
       "action": "update",
       "status": "ok"
     }
