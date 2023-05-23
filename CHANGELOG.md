@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-05-23: test(middleware): fix pagination offset
 - 2023-05-21: docs(utils): add rate limiting
 - 2023-05-19: Patch security issue
 - 2023-05-17: fix(routes): update cache TTL
