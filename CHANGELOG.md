@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-06-03: feat(auth): fix CORS headers
 - 2023-05-26: Add input sanitization
 - 2023-05-23: test(middleware): fix pagination offset
 - 2023-05-21: docs(utils): add rate limiting
