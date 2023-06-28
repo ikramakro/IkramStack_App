@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-06-28: fix(utils): update package lock
 - 2023-06-19: perf(utils): fix CORS headers
 - 2023-06-03: feat(auth): fix CORS headers
 - 2023-05-26: Add input sanitization
