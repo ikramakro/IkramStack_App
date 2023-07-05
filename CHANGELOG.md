@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2023-07-05: test(middleware): fix pagination offset
 - 2023-06-28: fix(utils): update package lock
 - 2023-06-19: perf(utils): fix CORS headers
 - 2023-06-03: feat(auth): fix CORS headers
