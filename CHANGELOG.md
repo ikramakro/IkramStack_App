@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-07-10: style(routes): improve error messages
 - 2023-07-09: docs(api): update env example
 - 2023-07-05: test(middleware): fix pagination offset
 - 2023-06-28: fix(utils): update package lock
