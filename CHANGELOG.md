@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-07-21: perf(auth): add session handling
 - 2023-07-10: style(routes): improve error messages
 - 2023-07-09: docs(api): update env example
 - 2023-07-05: test(middleware): fix pagination offset
