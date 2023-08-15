@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-08-15: Handle empty state
 - 2023-08-12: refactor(config): update env example
 - 2023-08-02: fix(auth): improve error messages
 - 2023-07-21: perf(auth): add session handling
