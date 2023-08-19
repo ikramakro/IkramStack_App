@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-08-19: docs(ui): correct response status codes
 - 2023-08-15: Handle empty state
 - 2023-08-12: refactor(config): update env example
 - 2023-08-02: fix(auth): improve error messages
