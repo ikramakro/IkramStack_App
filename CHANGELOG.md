@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-08-25: refactor(config): add validation middleware
 - 2023-08-19: docs(ui): correct response status codes
 - 2023-08-15: Handle empty state
 - 2023-08-12: refactor(config): update env example
