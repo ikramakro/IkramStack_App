@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-08-31: Sync lockfile
 - 2023-08-31: chore(middleware): correct response status codes
 - 2023-08-29: feat(auth): remove dead code
 - 2023-08-25: refactor(config): add validation middleware
