@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2023-09-04: refactor(routes): update env example
 - 2023-08-31: Sync lockfile
 - 2023-08-31: chore(middleware): correct response status codes
 - 2023-08-29: feat(auth): remove dead code
