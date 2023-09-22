@@ -1,6 +1,8 @@
 # Changelog
 
 ## Unreleased
+- 2023-09-22: feat(routes): resolve timeout on slow networks
+- 2023-09-22: test(routes): add validation middleware
 - 2023-09-04: refactor(routes): update env example
 - 2023-08-31: Sync lockfile
 - 2023-08-31: chore(middleware): correct response status codes
