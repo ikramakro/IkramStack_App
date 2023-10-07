@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-10-07: Sync lockfile
 - 2023-10-03: fix(config): sync schema changes
 - 2023-09-29: perf(middleware): resolve timeout on slow networks
 - 2023-09-22: feat(routes): resolve timeout on slow networks
