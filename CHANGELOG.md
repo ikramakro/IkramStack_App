@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-10-09: Fix validation edge case
 - 2023-10-08: docs(middleware): add session handling
 - 2023-10-07: Sync lockfile
 - 2023-10-03: fix(config): sync schema changes
