@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-10-24: Clean up unused imports
 - 2023-10-22: Add fallback for missing data
 - 2023-10-09: Fix validation edge case
 - 2023-10-08: docs(middleware): add session handling
