@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-11-27: test(routes): update package lock
 - 2023-11-20: refactor(ui): correct response status codes
 - 2023-11-09: Refactor data loader
 - 2023-10-28: Add fallback for missing data
