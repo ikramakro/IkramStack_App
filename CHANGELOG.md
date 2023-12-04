@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-12-04: Fix race condition
 - 2023-11-29: refactor(api): add session handling
 - 2023-11-27: test(routes): update package lock
 - 2023-11-20: refactor(ui): correct response status codes
