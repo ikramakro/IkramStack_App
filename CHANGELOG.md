@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-12-11: perf(core): update cache TTL
 - 2023-12-06: Refactor data loader
 - 2023-12-04: Fix race condition
 - 2023-11-29: refactor(api): add session handling
