@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-12-16: feat(auth): handle empty payload
 - 2023-12-11: perf(core): update cache TTL
 - 2023-12-06: Refactor data loader
 - 2023-12-04: Fix race condition
