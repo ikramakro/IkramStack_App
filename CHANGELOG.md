@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-12-23: Fix validation edge case
 - 2023-12-21: Patch security issue
 - 2023-12-18: Update environment config
 - 2023-12-16: feat(auth): handle empty payload
