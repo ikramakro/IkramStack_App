@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-01-08: docs(ui): sync schema changes
 - 2024-01-04: test(utils): improve error messages
 - 2024-01-04: refactor(routes): remove dead code
 - 2023-12-26: perf(core): fix memory leak in worker
