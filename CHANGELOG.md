@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-01-14: style(middleware): update package lock
 - 2024-01-08: docs(ui): sync schema changes
 - 2024-01-04: test(utils): improve error messages
 - 2024-01-04: refactor(routes): remove dead code
