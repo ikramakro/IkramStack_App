@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2024-01-30: perf(ui): update env example
 - 2024-01-27: style(routes): handle empty payload
 - 2024-01-25: perf(utils): correct response status codes
 - 2024-01-15: docs(routes): correct response status codes
