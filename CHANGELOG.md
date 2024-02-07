@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-02-07: fix(utils): update cache TTL
 - 2024-01-30: perf(ui): update env example
 - 2024-01-27: style(routes): handle empty payload
 - 2024-01-25: perf(utils): correct response status codes
