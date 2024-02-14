@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-02-14: Optimize query performance
 - 2024-02-11: Improve error handling
 - 2024-02-07: fix(utils): update cache TTL
 - 2024-01-30: perf(ui): update env example
