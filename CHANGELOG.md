@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-02-16: Patch security issue
 - 2024-02-14: Optimize query performance
 - 2024-02-11: Improve error handling
 - 2024-02-07: fix(utils): update cache TTL
