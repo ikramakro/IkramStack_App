@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-02-18: Add missing null check
 - 2024-02-16: Patch security issue
 - 2024-02-14: Optimize query performance
 - 2024-02-11: Improve error handling
