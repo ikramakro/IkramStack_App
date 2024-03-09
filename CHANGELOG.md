@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-03-09: Update logging output
 - 2024-03-04: Improve error handling
 - 2024-02-18: Add missing null check
 - 2024-02-16: Patch security issue
