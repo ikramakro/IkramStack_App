@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-03-17: Sync lockfile
 - 2024-03-16: Improve code readability
 - 2024-03-09: Update logging output
 - 2024-03-04: Improve error handling
