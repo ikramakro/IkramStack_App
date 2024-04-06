@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-04-06: style(auth): correct response status codes
 - 2024-03-28: perf(db): add rate limiting
 - 2024-03-17: Sync lockfile
 - 2024-03-16: Improve code readability
