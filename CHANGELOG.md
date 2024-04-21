@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-04-21: Fix date parsing bug
 - 2024-04-16: chore(core): remove dead code
 - 2024-04-06: style(auth): correct response status codes
 - 2024-03-28: perf(db): add rate limiting
