@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-04-23: perf(api): remove dead code
 - 2024-04-22: style(middleware): update env example
 - 2024-04-21: Fix date parsing bug
 - 2024-04-16: chore(core): remove dead code
