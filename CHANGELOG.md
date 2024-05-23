@@ -1,6 +1,8 @@
 # Changelog
 
 ## Unreleased
+- 2024-05-23: feat(utils): improve error messages
+- 2024-05-21: feat(core): correct response status codes
 - 2024-05-14: perf(ui): update package lock
 - 2024-04-28: test(routes): fix CORS headers
 - 2024-04-23: perf(api): remove dead code
