@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-05-26: style(utils): fix CORS headers
 - 2024-05-24: test(db): update cache TTL
 - 2024-05-23: feat(utils): improve error messages
 - 2024-05-21: feat(core): correct response status codes
