@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-06-11: Add input sanitization
 - 2024-06-02: Fix race condition
 - 2024-05-26: style(utils): fix CORS headers
 - 2024-05-24: test(db): update cache TTL
