@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-06-23: test(auth): fix pagination offset
 - 2024-06-23: Add missing null check
 - 2024-06-18: Sync lockfile
 - 2024-06-11: Add input sanitization
