@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2024-07-17: docs(auth): resolve timeout on slow networks
 - 2024-07-16: feat(middleware): update cache TTL
 - 2024-07-06: Fix typo in config
 - 2024-07-05: Minor code cleanup
