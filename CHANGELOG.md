@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-07-19: chore(ui): improve error messages
 - 2024-07-18: Minor code cleanup
 - 2024-07-17: docs(auth): resolve timeout on slow networks
 - 2024-07-16: feat(middleware): update cache TTL
