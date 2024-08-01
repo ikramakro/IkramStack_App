@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-08-01: chore(core): update env example
 - 2024-07-19: chore(ui): improve error messages
 - 2024-07-18: Minor code cleanup
 - 2024-07-17: docs(auth): resolve timeout on slow networks
