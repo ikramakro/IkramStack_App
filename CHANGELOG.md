@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-08-09: Refactor data loader
 - 2024-08-08: Add missing null check
 - 2024-08-01: chore(core): update env example
 - 2024-07-19: chore(ui): improve error messages
