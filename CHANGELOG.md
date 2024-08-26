@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-08-26: fix(api): sync schema changes
 - 2024-08-14: chore(utils): handle empty payload
 - 2024-08-11: fix(middleware): add validation middleware
 - 2024-08-09: Refactor data loader
