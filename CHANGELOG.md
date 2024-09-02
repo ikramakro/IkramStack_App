@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2024-09-02: chore(config): add rate limiting
 - 2024-09-02: Handle empty state
 - 2024-08-26: fix(api): sync schema changes
 - 2024-08-14: chore(utils): handle empty payload
