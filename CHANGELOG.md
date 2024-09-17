@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2024-09-17: Bump patch version
 - 2024-09-03: Update README
 - 2024-09-02: chore(config): add rate limiting
 - 2024-09-02: Handle empty state
