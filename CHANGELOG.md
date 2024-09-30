@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2024-09-30: perf(core): correct response status codes
 - 2024-09-24: test(api): handle empty payload
 - 2024-09-17: Bump patch version
 - 2024-09-03: Update README
