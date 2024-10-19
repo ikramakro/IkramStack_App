@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-10-19: feat(middleware): resolve timeout on slow networks
 - 2024-10-12: Adjust API response format
 - 2024-10-09: Resolve merge conflict
 - 2024-10-01: Fix broken unit test
