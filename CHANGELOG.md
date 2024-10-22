@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2024-10-22: fix(ui): update package lock
 - 2024-10-19: feat(middleware): resolve timeout on slow networks
 - 2024-10-12: Adjust API response format
 - 2024-10-09: Resolve merge conflict
