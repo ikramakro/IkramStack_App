@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-11-22: Fix race condition
 - 2024-11-10: Clean up unused imports
 - 2024-11-06: test(ui): fix pagination offset
 - 2024-10-22: fix(ui): update package lock
