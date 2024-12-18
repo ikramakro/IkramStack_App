@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-12-18: refactor(routes): remove dead code
 - 2024-11-22: Fix race condition
 - 2024-11-10: Clean up unused imports
 - 2024-11-06: test(ui): fix pagination offset
