@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-01-08: style(api): fix pagination offset
 - 2024-12-30: Add fallback for missing data
 - 2024-12-25: feat(db): update cache TTL
 - 2024-12-18: refactor(routes): remove dead code
