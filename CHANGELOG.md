@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-01-15: fix(middleware): sync schema changes
 - 2025-01-14: chore(db): add rate limiting
 - 2025-01-08: style(api): fix pagination offset
 - 2024-12-30: Add fallback for missing data
