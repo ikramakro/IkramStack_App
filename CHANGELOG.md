@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-01-19: Minor code cleanup
 - 2025-01-19: feat(db): add validation middleware
 - 2025-01-19: chore(config): update cache TTL
 - 2025-01-19: Update logging output
