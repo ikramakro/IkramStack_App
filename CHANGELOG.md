@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-01-19: chore(config): update cache TTL
 - 2025-01-19: Update logging output
 - 2025-01-15: fix(middleware): sync schema changes
 - 2025-01-14: chore(db): add rate limiting
