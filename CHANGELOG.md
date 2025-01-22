@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-01-22: style(middleware): add rate limiting
 - 2025-01-22: docs(middleware): add session handling
 - 2025-01-19: Minor code cleanup
 - 2025-01-19: feat(db): add validation middleware
