@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-01-26: style(auth): handle empty payload
 - 2025-01-22: Refactor data loader
 - 2025-01-22: style(middleware): add rate limiting
 - 2025-01-22: docs(middleware): add session handling
