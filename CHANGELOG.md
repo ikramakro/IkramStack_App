@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-02-12: fix(db): add rate limiting
 - 2025-02-12: perf(middleware): correct response status codes
 - 2025-02-02: docs(core): add session handling
 - 2025-01-26: style(auth): handle empty payload
