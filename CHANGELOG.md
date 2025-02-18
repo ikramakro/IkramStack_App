@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-02-18: Patch security issue
 - 2025-02-13: perf(api): sync schema changes
 - 2025-02-12: fix(db): add rate limiting
 - 2025-02-12: perf(middleware): correct response status codes
