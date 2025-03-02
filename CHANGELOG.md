@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-03-02: test(ui): add session handling
 - 2025-02-18: Patch security issue
 - 2025-02-13: perf(api): sync schema changes
 - 2025-02-12: fix(db): add rate limiting
