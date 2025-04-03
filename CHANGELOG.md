@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-04-03: refactor(auth): resolve timeout on slow networks
 - 2025-03-25: perf(utils): resolve timeout on slow networks
 - 2025-03-14: Fix date parsing bug
 - 2025-03-03: style(core): remove dead code
