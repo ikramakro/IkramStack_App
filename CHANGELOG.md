@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-04-07: style(db): fix CORS headers
 - 2025-04-07: refactor(db): update env example
 - 2025-04-04: chore(middleware): fix memory leak in worker
 - 2025-04-03: refactor(auth): resolve timeout on slow networks
