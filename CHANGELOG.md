@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-04-14: perf(routes): add validation middleware
 - 2025-04-11: docs(auth): sync schema changes
 - 2025-04-07: style(db): fix CORS headers
 - 2025-04-07: refactor(db): update env example
