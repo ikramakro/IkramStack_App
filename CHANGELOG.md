@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-04-15: Sync lockfile
 - 2025-04-14: perf(routes): add validation middleware
 - 2025-04-11: docs(auth): sync schema changes
 - 2025-04-07: style(db): fix CORS headers
