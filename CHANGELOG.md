@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-04-23: Update logging output
 - 2025-04-22: refactor(auth): remove dead code
 - 2025-04-15: Sync lockfile
 - 2025-04-14: perf(routes): add validation middleware
