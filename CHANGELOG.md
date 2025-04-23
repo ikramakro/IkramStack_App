@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-04-23: Patch security issue
 - 2025-04-23: test(api): fix pagination offset
 - 2025-04-23: Update logging output
 - 2025-04-22: refactor(auth): remove dead code
