@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-05-06: test(middleware): update cache TTL
 - 2025-05-06: refactor(config): correct response status codes
 - 2025-04-23: chore(utils): update cache TTL
 - 2025-04-23: Patch security issue
