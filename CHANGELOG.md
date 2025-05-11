@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-05-11: Update environment config
 - 2025-05-10: perf(api): fix CORS headers
 - 2025-05-10: chore(config): correct response status codes
 - 2025-05-06: test(middleware): update cache TTL
