@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-05-25: Sync lockfile
 - 2025-05-23: feat(ui): fix pagination offset
 - 2025-05-19: test(ui): update cache TTL
 - 2025-05-11: test(core): correct response status codes
