@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-05-27: Clean up unused imports
 - 2025-05-25: Sync lockfile
 - 2025-05-23: feat(ui): fix pagination offset
 - 2025-05-19: test(ui): update cache TTL
