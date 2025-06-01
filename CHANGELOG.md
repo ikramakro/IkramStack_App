@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-06-01: style(ui): remove dead code
 - 2025-05-31: perf(config): add validation middleware
 - 2025-05-27: test(config): fix pagination offset
 - 2025-05-27: Clean up unused imports
