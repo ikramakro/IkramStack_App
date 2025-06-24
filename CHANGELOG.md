@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-06-24: Update logging output
 - 2025-06-24: style(api): update env example
 - 2025-06-01: style(ui): remove dead code
 - 2025-05-31: perf(config): add validation middleware
