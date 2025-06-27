@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-06-27: Fix broken unit test
 - 2025-06-25: chore(config): resolve timeout on slow networks
 - 2025-06-24: Update logging output
 - 2025-06-24: style(api): update env example
