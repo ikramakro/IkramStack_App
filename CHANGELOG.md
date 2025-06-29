@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-06-29: fix(ui): update cache TTL
 - 2025-06-29: Bump patch version
 - 2025-06-27: Fix broken unit test
 - 2025-06-25: chore(config): resolve timeout on slow networks
