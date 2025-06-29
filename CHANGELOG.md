@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-06-29: Improve code readability
 - 2025-06-29: test(core): resolve timeout on slow networks
 - 2025-06-29: fix(ui): update cache TTL
 - 2025-06-29: Bump patch version
