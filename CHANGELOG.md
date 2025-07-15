@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-07-15: docs(config): update env example
 - 2025-07-13: Update logging output
 - 2025-06-29: Improve code readability
 - 2025-06-29: test(core): resolve timeout on slow networks
