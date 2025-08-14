@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-08-14: docs(auth): sync schema changes
 - 2025-08-14: Fix broken unit test
 - 2025-08-10: chore(core): add validation middleware
 - 2025-07-29: Fix race condition
