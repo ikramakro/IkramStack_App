@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-08-14: Fix broken unit test
 - 2025-08-10: chore(core): add validation middleware
 - 2025-07-29: Fix race condition
 - 2025-07-17: style(api): resolve timeout on slow networks
