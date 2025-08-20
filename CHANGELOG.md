@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-08-20: test(ui): remove dead code
 - 2025-08-20: refactor(core): sync schema changes
 - 2025-08-20: docs(middleware): correct response status codes
 - 2025-08-14: refactor(ui): sync schema changes
