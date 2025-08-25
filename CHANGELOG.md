@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-08-25: feat(db): fix CORS headers
 - 2025-08-20: test(ui): remove dead code
 - 2025-08-20: refactor(core): sync schema changes
 - 2025-08-20: docs(middleware): correct response status codes
