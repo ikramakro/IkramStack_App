@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-09-05: Clean up unused imports
 - 2025-09-04: Optimize query performance
 - 2025-08-29: refactor(middleware): sync schema changes
 - 2025-08-26: docs(middleware): remove dead code
