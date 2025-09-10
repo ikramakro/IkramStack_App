@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-09-10: Fix date parsing bug
 - 2025-09-05: Fix date parsing bug
 - 2025-09-05: Clean up unused imports
 - 2025-09-04: Optimize query performance
