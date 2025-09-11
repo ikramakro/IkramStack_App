@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-09-11: perf(core): remove dead code
 - 2025-09-10: Fix date parsing bug
 - 2025-09-05: Fix date parsing bug
 - 2025-09-05: Clean up unused imports
