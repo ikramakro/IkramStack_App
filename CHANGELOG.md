@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-09-11: test(utils): resolve timeout on slow networks
 - 2025-09-11: test(auth): add session handling
 - 2025-09-11: perf(auth): add session handling
 - 2025-09-11: perf(core): remove dead code
