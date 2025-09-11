@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-09-11: test(auth): add session handling
 - 2025-09-11: perf(auth): add session handling
 - 2025-09-11: perf(core): remove dead code
 - 2025-09-10: Fix date parsing bug
