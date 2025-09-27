@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-09-27: chore(routes): add session handling
 - 2025-09-21: Fix typo in config
 - 2025-09-20: feat(db): update env example
 - 2025-09-20: Update README
