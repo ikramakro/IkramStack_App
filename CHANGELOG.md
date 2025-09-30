@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-09-30: style(auth): update cache TTL
 - 2025-09-27: fix(config): resolve timeout on slow networks
 - 2025-09-27: chore(routes): add session handling
 - 2025-09-21: Fix typo in config
