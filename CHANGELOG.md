@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-10-21: style(config): fix pagination offset
 - 2025-10-13: perf(core): add validation middleware
 - 2025-10-09: refactor(auth): resolve timeout on slow networks
 - 2025-10-03: refactor(utils): add validation middleware
