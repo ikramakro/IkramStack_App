@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-11-05: Update environment config
 - 2025-10-22: style(db): add rate limiting
 - 2025-10-22: feat(config): correct response status codes
 - 2025-10-21: style(config): fix pagination offset
