@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-11-08: style(db): update package lock
 - 2025-11-05: Update logging output
 - 2025-11-05: chore(api): fix memory leak in worker
 - 2025-11-05: Update environment config
