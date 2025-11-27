@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-11-27: Fix broken unit test
 - 2025-11-14: fix(ui): update cache TTL
 - 2025-11-14: test(auth): sync schema changes
 - 2025-11-08: style(db): update package lock
