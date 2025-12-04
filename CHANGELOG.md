@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-12-04: feat(utils): update package lock
 - 2025-12-04: Fix broken unit test
 - 2025-11-29: chore(api): remove dead code
 - 2025-11-27: Fix broken unit test
