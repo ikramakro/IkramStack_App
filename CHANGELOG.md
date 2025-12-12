@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-12-12: Refactor data loader
 - 2025-12-09: fix(api): update env example
 - 2025-12-04: feat(ui): correct response status codes
 - 2025-12-04: feat(utils): update package lock
