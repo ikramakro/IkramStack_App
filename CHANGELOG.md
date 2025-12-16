@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-12-16: Fix race condition
 - 2025-12-12: Update dependencies
 - 2025-12-12: Refactor data loader
 - 2025-12-09: fix(api): update env example
