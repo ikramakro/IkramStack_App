@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-12-20: feat(db): fix memory leak in worker
 - 2025-12-16: Fix race condition
 - 2025-12-12: Update dependencies
 - 2025-12-12: Refactor data loader
