@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-12-23: Adjust API response format
 - 2025-12-20: Patch security issue
 - 2025-12-20: feat(db): fix memory leak in worker
 - 2025-12-16: Fix race condition
