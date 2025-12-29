@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-12-29: fix(auth): add validation middleware
 - 2025-12-25: perf(db): add rate limiting
 - 2025-12-23: Adjust API response format
 - 2025-12-20: Patch security issue
