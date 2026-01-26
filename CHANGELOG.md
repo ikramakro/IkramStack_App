@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2026-01-29: chore(core): correct response status codes
 - 2026-01-26: docs(auth): add session handling
 - 2026-02-01: Update README
 - 2026-02-12: chore(routes): fix memory leak in worker
