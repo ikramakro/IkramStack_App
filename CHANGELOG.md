@@ -1,9 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2026-02-01: Update README
-- 2026-02-12: chore(routes): fix memory leak in worker
-- 2026-02-09: chore(auth): add rate limiting
 - 2026-02-22: docs(api): update env example
 - 2026-03-06: refactor(middleware): fix pagination offset
 - 2026-03-09: chore(core): fix memory leak in worker
