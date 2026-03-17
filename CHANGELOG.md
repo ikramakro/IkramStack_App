@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2026-03-09: chore(core): fix memory leak in worker
 - 2026-03-17: Optimize query performance
 - 2026-03-28: Resolve merge conflict
 - 2026-04-11: fix(middleware): add validation middleware
