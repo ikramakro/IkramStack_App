@@ -1,8 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2026-03-17: Optimize query performance
-- 2026-03-28: Resolve merge conflict
 - 2026-04-11: fix(middleware): add validation middleware
 - 2026-04-05: docs(routes): handle empty payload
 - 2026-04-17: chore(utils): update cache TTL
