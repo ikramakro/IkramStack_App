@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2026-04-11: fix(middleware): add validation middleware
 - 2026-04-05: docs(routes): handle empty payload
 - 2026-04-17: chore(utils): update cache TTL
 - 2026-04-23: chore(routes): add validation middleware
