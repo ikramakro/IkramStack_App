@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-04-17: chore(utils): update cache TTL
 - 2026-04-23: chore(routes): add validation middleware
 - 2026-05-13: Fix broken unit test
 - 2026-05-12: Clean up unused imports
