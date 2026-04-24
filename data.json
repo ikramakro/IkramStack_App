@@ -1,6 +1,6 @@
 {
-  "version": "1.0.106",
-  "lastUpdated": "2026-04-24T09:00:37",
+  "version": "1.0.105",
+  "lastUpdated": "2026-04-24T12:02:27",
   "events": [
     {
       "id": "evt_1780643710294_3304",
@@ -629,12 +629,6 @@
     {
       "id": "evt_1780643891193_2374",
       "timestamp": "2026-04-24T07:02:27.000Z",
-      "action": "update",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643891568_1301",
-      "timestamp": "2026-04-24T04:00:37.000Z",
       "action": "update",
       "status": "ok"
     }
