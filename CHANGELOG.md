@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2026-04-23: chore(routes): add validation middleware
 - 2026-05-13: Fix broken unit test
 - 2026-05-12: Clean up unused imports
 - 2026-05-18: Update type definitions
