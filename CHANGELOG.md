@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-05-12: Clean up unused imports
 - 2026-05-18: Update type definitions
 - 2026-05-29: docs(auth): handle empty payload
 - 2026-05-25: feat(config): fix memory leak in worker
