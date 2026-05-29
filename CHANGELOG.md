@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-05-29: docs(auth): handle empty payload
 - 2026-05-25: feat(config): fix memory leak in worker
 - 2026-06-06: chore(ui): update env example
 - 2025-07-23: docs(ui): fix memory leak in worker
